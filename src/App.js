@@ -1,8 +1,10 @@
 import React from 'react';
 
+import Routes from "./router";
+
 export default function App() {
   return (
-    <h1>Site Turma B2020</h1>
+    <Routes />
     );
 }
 
